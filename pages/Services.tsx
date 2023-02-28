@@ -8,7 +8,7 @@ const Services: React.FC = () => {
         <div className="flex flex-col mx-auto text-center sm:px-32  justify-center items-center">
             <div className="flex flex-row mb-20 jusitfy-center items-ce md:flex-row w-full lg:w-1/2 mx-auto">
                 <div className="flex mx-auto mb-5 justify-center sm:w-56 h-32">
-                    <img className = "sm:mr-10" src = "/fb.png"/>
+                    <img className = "sm:mr-10" alt = "Facebook" src = "/fb.png"/>
                 </div>
 
                 <div className="flex flex-col text-center sm:text-left mx-auto justify-center sm:w-2/3">
@@ -26,7 +26,7 @@ const Services: React.FC = () => {
             </div>
 
             <div className="sm:w-56 h-32 flex flex-wrap mx-auto justify-center items-center">
-                <img className = "sm:ml-10" src = "/web.png"/>
+                <img className = "sm:ml-10" alt = 'Web' src = "/web.png"/>
 
             </div>
             

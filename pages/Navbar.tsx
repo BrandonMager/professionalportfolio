@@ -6,7 +6,7 @@ const Navbar: React.FC = () => {
 
     <div className="container flex flex-wrap mx-auto xs:px-32 items-center justify-center h-24">
         <div className="h-24 mr-5">
-            <img className = "md:w-1/10 h-24" src = '/mg.png'/>
+            <img className = "md:w-1/10 h-24" alt = 'Magitech' src = '/mg.png'/>
     
         </div>
 

@@ -16,7 +16,7 @@ const Intro: React.FC = () => {
                 </a>
             </div>
             <div className="m-auto my-12 md:w-1/2">
-                <img src = "/phone.gif" />
+                <img src = "/phone.gif" alt = "Phone" />
             </div>
             
         </section>
